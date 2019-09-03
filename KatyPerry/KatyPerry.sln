@@ -1,0 +1,43 @@
+<<<<<<< HEAD
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatyPerry", "KatyPerry\KatyPerry.csproj", "{E2CD6D43-9708-497A-8647-FB24BA0C7D02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2CD6D43-9708-497A-8647-FB24BA0C7D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2CD6D43-9708-497A-8647-FB24BA0C7D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2CD6D43-9708-497A-8647-FB24BA0C7D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2CD6D43-9708-497A-8647-FB24BA0C7D02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatyPerry", "KatyPerry\KatyPerry.csproj", "{E2CD6D43-9708-497A-8647-FB24BA0C7D02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2CD6D43-9708-497A-8647-FB24BA0C7D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2CD6D43-9708-497A-8647-FB24BA0C7D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2CD6D43-9708-497A-8647-FB24BA0C7D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2CD6D43-9708-497A-8647-FB24BA0C7D02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+>>>>>>> c2ecc0ce5a94ba7c331af7336fd48074e6df7e08
